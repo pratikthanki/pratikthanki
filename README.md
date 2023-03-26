@@ -1,6 +1,6 @@
 ## Hey, I’m Pratik 👋
 
-A software engineer based in London working in the world of investment management which involves building applications used for back-testing, portfolio construction and risk management.
+A software engineer based in London working in energy trading and responsible for venue connectivity, aggregation engine and automated trading.
 
 Checkout my personal website: https://pratikthanki.github.io/
 
